@@ -1,0 +1,68 @@
+2024-10-13T10:11:38.722Z [INFO]: Starting App
+2024-10-18T21:47:43.115Z [INFO]: Starting App
+2024-10-18T21:47:43.120Z [ERROR]: Error while starting app: TypeError: initializeServices is not a function
+2024-10-18T21:58:04.647Z [INFO]: Starting App
+2024-10-18T21:58:04.651Z [INFO]: Initializing services
+2024-10-18T21:58:04.652Z [INFO]: Initializing MongoDB service
+2024-10-18T21:58:05.863Z [INFO]: Connected to MongoDB
+2024-10-18T21:58:05.864Z [ERROR]: Error while starting app: TypeError: Cannot destructure property 'app' of '(intermediate value)' as it is undefined.
+2024-10-18T22:01:17.361Z [INFO]: MongoDB connection closed
+2024-10-18T22:01:20.149Z [INFO]: Starting App
+2024-10-18T22:01:20.153Z [INFO]: Initializing services
+2024-10-18T22:01:20.154Z [INFO]: Initializing MongoDB service
+2024-10-18T22:01:21.596Z [INFO]: Connected to MongoDB
+2024-10-18T22:01:59.024Z [INFO]: Starting App
+2024-10-18T22:01:59.027Z [INFO]: Initializing services
+2024-10-18T22:01:59.027Z [INFO]: Initializing MongoDB service
+2024-10-18T22:01:59.887Z [INFO]: Connected to MongoDB
+2024-10-18T22:01:59.889Z [ERROR]: Error while starting app: TypeError: Cannot destructure property 'app' of '(intermediate value)' as it is undefined.
+2024-10-18T22:03:46.670Z [INFO]: MongoDB connection closed
+2024-10-18T22:03:48.678Z [INFO]: Starting App
+2024-10-18T22:03:48.681Z [INFO]: Initializing services
+2024-10-18T22:03:48.682Z [INFO]: Initializing MongoDB service
+2024-10-18T22:03:49.702Z [INFO]: Connected to MongoDB
+2024-10-18T22:03:49.704Z [ERROR]: Error while starting app: ReferenceError: app is not defined
+2024-10-18T22:04:17.809Z [INFO]: MongoDB connection closed
+2024-10-18T22:04:19.205Z [INFO]: Starting App
+2024-10-18T22:04:19.209Z [INFO]: Initializing services
+2024-10-18T22:04:19.210Z [INFO]: Initializing MongoDB service
+2024-10-18T22:04:20.292Z [INFO]: Connected to MongoDB
+2024-10-18T22:04:20.293Z [INFO]: BoilerPlate Initialized
+2024-10-18T22:04:20.294Z [ERROR]: Error while starting app: TypeError: app.use() requires a middleware function
+2024-10-18T22:05:13.335Z [INFO]: MongoDB connection closed
+2024-10-18T22:05:14.741Z [INFO]: Starting App
+2024-10-18T22:05:14.745Z [INFO]: Initializing services
+2024-10-18T22:05:14.745Z [INFO]: Initializing MongoDB service
+2024-10-18T22:05:15.771Z [INFO]: Connected to MongoDB
+2024-10-18T22:05:15.772Z [INFO]: BoilerPlate Initialized
+2024-10-18T22:05:15.778Z [INFO]: Server running on port 5000
+2024-10-18T22:05:18.350Z [INFO]: MongoDB connection closed
+2024-10-18T22:06:01.346Z [INFO]: Starting App
+2024-10-18T22:06:01.350Z [INFO]: Initializing services
+2024-10-18T22:06:01.350Z [INFO]: Initializing MongoDB service
+2024-10-18T22:06:02.617Z [INFO]: Connected to MongoDB
+2024-10-18T22:06:02.618Z [INFO]: BoilerPlate Initialized
+2024-10-18T22:06:02.626Z [INFO]: Server running on port 5000
+2024-10-18T22:07:00.668Z [INFO]: MongoDB connection closed
+2024-10-19T18:14:18.763Z [INFO]: Starting App
+2024-10-19T18:14:18.768Z [INFO]: Initializing services
+2024-10-19T18:14:18.768Z [INFO]: Initializing MongoDB service
+2024-10-19T18:14:49.111Z [ERROR]: Failed to connect to MongoDB: Server selection timed out after 30000 ms
+2024-10-19T18:14:53.217Z [INFO]: Starting App
+2024-10-19T18:14:53.221Z [INFO]: Initializing services
+2024-10-19T18:14:53.221Z [INFO]: Initializing MongoDB service
+2024-10-19T18:15:23.474Z [ERROR]: Failed to connect to MongoDB: Server selection timed out after 30000 ms
+2024-10-19T18:17:53.618Z [INFO]: Starting App
+2024-10-19T18:17:53.622Z [INFO]: Initializing services
+2024-10-19T18:17:53.623Z [INFO]: Initializing MongoDB service
+2024-10-19T18:17:54.379Z [INFO]: Connected to MongoDB
+2024-10-19T18:17:54.380Z [INFO]: BoilerPlate Initialized
+2024-10-19T18:17:54.392Z [INFO]: Server running on port 5000
+2024-10-19T18:17:57.062Z [INFO]: MongoDB connection closed
+2024-10-19T18:17:59.402Z [INFO]: Starting App
+2024-10-19T18:17:59.406Z [INFO]: Initializing services
+2024-10-19T18:17:59.407Z [INFO]: Initializing MongoDB service
+2024-10-19T18:18:00.178Z [INFO]: Connected to MongoDB
+2024-10-19T18:18:00.179Z [INFO]: BoilerPlate Initialized
+2024-10-19T18:18:00.184Z [INFO]: Server running on port 5000
+2024-10-19T18:45:11.613Z [INFO]: MongoDB connection closed

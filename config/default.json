@@ -1,0 +1,16 @@
+{
+  "instanceType": "development",
+  "server": {
+    "host": "localhost",
+    "port": 5000,
+    "corsWhiteList": ["localhost"]
+  },
+  "database": {
+    "mongo": {
+      "url": "mongodb+srv://cluster0.klt9s.mongodb.net/VoiceOverInternet",
+      "username": "akshatisthegreat",
+      "password": "zjhErmtGcQodwj4L",
+      "userCollection": "Users"
+    }
+  }
+}
